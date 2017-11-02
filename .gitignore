@@ -1,0 +1,10 @@
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
+*.classpath
+/doExt_do_Audio/do_Audio.zip
+/doExt_do_Audio/do_build.xml
+/doExt_do_Audio/libs/docore.jar
